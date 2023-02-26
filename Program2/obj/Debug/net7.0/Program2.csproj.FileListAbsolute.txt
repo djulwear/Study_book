@@ -1,0 +1,15 @@
+/Users/janafjr/Projects/Study_book/Program2/bin/Debug/net7.0/Program2
+/Users/janafjr/Projects/Study_book/Program2/bin/Debug/net7.0/Program2.deps.json
+/Users/janafjr/Projects/Study_book/Program2/bin/Debug/net7.0/Program2.runtimeconfig.json
+/Users/janafjr/Projects/Study_book/Program2/bin/Debug/net7.0/Program2.dll
+/Users/janafjr/Projects/Study_book/Program2/bin/Debug/net7.0/Program2.pdb
+/Users/janafjr/Projects/Study_book/Program2/obj/Debug/net7.0/Program2.csproj.AssemblyReference.cache
+/Users/janafjr/Projects/Study_book/Program2/obj/Debug/net7.0/Program2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janafjr/Projects/Study_book/Program2/obj/Debug/net7.0/Program2.AssemblyInfoInputs.cache
+/Users/janafjr/Projects/Study_book/Program2/obj/Debug/net7.0/Program2.AssemblyInfo.cs
+/Users/janafjr/Projects/Study_book/Program2/obj/Debug/net7.0/Program2.csproj.CoreCompileInputs.cache
+/Users/janafjr/Projects/Study_book/Program2/obj/Debug/net7.0/Program2.dll
+/Users/janafjr/Projects/Study_book/Program2/obj/Debug/net7.0/refint/Program2.dll
+/Users/janafjr/Projects/Study_book/Program2/obj/Debug/net7.0/Program2.pdb
+/Users/janafjr/Projects/Study_book/Program2/obj/Debug/net7.0/Program2.genruntimeconfig.cache
+/Users/janafjr/Projects/Study_book/Program2/obj/Debug/net7.0/ref/Program2.dll

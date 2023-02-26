@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{4C76005D-341B-45F8-A6C1-3660AA50914D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Homework-6.8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Project-6.7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Project-6.3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Homework-6.5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Homework-6.2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Homework-6.4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Project-6.4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Homework-6.6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Homework-6.7 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.4/Program.cs" relfile="Homework-6.4/Program.cs" line="25" column="1" />
+      <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.4/Program.cs" relfile="Homework-6.4/Program.cs" line="26" column="1" />
+      <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.6/Program.cs" relfile="Homework-6.6/Program.cs" line="87" column="1" />
+      <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.6/Program.cs" relfile="Homework-6.6/Program.cs" line="40" column="1" />
+      <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.6/Program.cs" relfile="Homework-6.6/Program.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Project-6.9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Homework-6.3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Homework-6.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Project-6.5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Study_book" expanded="True">
+            <Node name="Homework-6.7" expanded="True" />
+            <Node name="Homework-6.8" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

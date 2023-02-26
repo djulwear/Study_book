@@ -1,0 +1,15 @@
+/Users/janafjr/Projects/Study_book/project5-This/bin/Debug/net7.0/project5-This
+/Users/janafjr/Projects/Study_book/project5-This/bin/Debug/net7.0/project5-This.deps.json
+/Users/janafjr/Projects/Study_book/project5-This/bin/Debug/net7.0/project5-This.runtimeconfig.json
+/Users/janafjr/Projects/Study_book/project5-This/bin/Debug/net7.0/project5-This.dll
+/Users/janafjr/Projects/Study_book/project5-This/bin/Debug/net7.0/project5-This.pdb
+/Users/janafjr/Projects/Study_book/project5-This/obj/Debug/net7.0/project5-This.csproj.AssemblyReference.cache
+/Users/janafjr/Projects/Study_book/project5-This/obj/Debug/net7.0/project5-This.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janafjr/Projects/Study_book/project5-This/obj/Debug/net7.0/project5-This.AssemblyInfoInputs.cache
+/Users/janafjr/Projects/Study_book/project5-This/obj/Debug/net7.0/project5-This.AssemblyInfo.cs
+/Users/janafjr/Projects/Study_book/project5-This/obj/Debug/net7.0/project5-This.csproj.CoreCompileInputs.cache
+/Users/janafjr/Projects/Study_book/project5-This/obj/Debug/net7.0/project5-This.dll
+/Users/janafjr/Projects/Study_book/project5-This/obj/Debug/net7.0/refint/project5-This.dll
+/Users/janafjr/Projects/Study_book/project5-This/obj/Debug/net7.0/project5-This.pdb
+/Users/janafjr/Projects/Study_book/project5-This/obj/Debug/net7.0/project5-This.genruntimeconfig.cache
+/Users/janafjr/Projects/Study_book/project5-This/obj/Debug/net7.0/ref/project5-This.dll

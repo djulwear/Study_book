@@ -1,0 +1,15 @@
+/Users/janafjr/Projects/Study_book/Project3/bin/Debug/net7.0/Project3
+/Users/janafjr/Projects/Study_book/Project3/bin/Debug/net7.0/Project3.deps.json
+/Users/janafjr/Projects/Study_book/Project3/bin/Debug/net7.0/Project3.runtimeconfig.json
+/Users/janafjr/Projects/Study_book/Project3/bin/Debug/net7.0/Project3.dll
+/Users/janafjr/Projects/Study_book/Project3/bin/Debug/net7.0/Project3.pdb
+/Users/janafjr/Projects/Study_book/Project3/obj/Debug/net7.0/Project3.csproj.AssemblyReference.cache
+/Users/janafjr/Projects/Study_book/Project3/obj/Debug/net7.0/Project3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janafjr/Projects/Study_book/Project3/obj/Debug/net7.0/Project3.AssemblyInfoInputs.cache
+/Users/janafjr/Projects/Study_book/Project3/obj/Debug/net7.0/Project3.AssemblyInfo.cs
+/Users/janafjr/Projects/Study_book/Project3/obj/Debug/net7.0/Project3.csproj.CoreCompileInputs.cache
+/Users/janafjr/Projects/Study_book/Project3/obj/Debug/net7.0/Project3.dll
+/Users/janafjr/Projects/Study_book/Project3/obj/Debug/net7.0/refint/Project3.dll
+/Users/janafjr/Projects/Study_book/Project3/obj/Debug/net7.0/Project3.pdb
+/Users/janafjr/Projects/Study_book/Project3/obj/Debug/net7.0/Project3.genruntimeconfig.cache
+/Users/janafjr/Projects/Study_book/Project3/obj/Debug/net7.0/ref/Project3.dll

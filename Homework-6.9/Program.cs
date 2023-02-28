@@ -6,18 +6,18 @@
 
 class MyClass
 {
-    static int max;
-    static int middle;
+    public static int max = default;
+    public static int middle = default;
 
     public static void GetNumber(params int[] num)
     {
-        int max = num.Max();
-        int middle = (int)num.Average();
-        
+        max = num.Max();
+        middle = (int)num.Average();
+        Console.WriteLine("GetNumber: Max number is: " + max + " and middle number is: " + middle);
     }
     public void Show()
     {
-        Console.WriteLine("Max number is: " + max + " and middle number is: " + middle);
+        Console.WriteLine("Show: Max number is: " + max + " and middle number is: " + middle);
     }
 
     class MainClass
@@ -26,10 +26,12 @@ class MyClass
         {
             int[] example1 = { 1, 4, 6, 8, 9, 0, 6 };
             MyClass Demo1 = new MyClass();
-            GetNumber(5,6);
+            MyClass Demo2 = new MyClass();
+            GetNumber(1,10);
             Demo1.Show();
             GetNumber(example1);
             Demo1.Show();
+            Demo2.Show();
         }
     }
 }

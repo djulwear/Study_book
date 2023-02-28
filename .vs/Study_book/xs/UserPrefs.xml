@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{558B993E-FB1F-4CB8-8618-0119AE9F34D5}|Default">
+﻿<Properties StartupConfiguration="{51B3A770-C182-4D5E-80CF-A346B18B8908}|Default">
   <MonoDevelop.Ide.ItemProperties.Project-6.7 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Project-6.3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Homework-6.9 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Homework-6.9 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Homework-6.5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Homework-6.2 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Homework-6.4 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -9,11 +9,14 @@
   <MonoDevelop.Ide.ItemProperties.Homework-6.6 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Homework-6.7 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.4/Program.cs" relfile="Homework-6.4/Program.cs" line="25" column="1" />
-    <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.4/Program.cs" relfile="Homework-6.4/Program.cs" line="26" column="1" />
-    <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.6/Program.cs" relfile="Homework-6.6/Program.cs" line="87" column="1" />
-    <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.6/Program.cs" relfile="Homework-6.6/Program.cs" line="40" column="1" />
-    <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.6/Program.cs" relfile="Homework-6.6/Program.cs" line="19" column="1" />
+    <BreakpointStore>
+      <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.4/Program.cs" relfile="Homework-6.4/Program.cs" line="25" column="1" />
+      <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.4/Program.cs" relfile="Homework-6.4/Program.cs" line="26" column="1" />
+      <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.6/Program.cs" relfile="Homework-6.6/Program.cs" line="87" column="1" />
+      <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.6/Program.cs" relfile="Homework-6.6/Program.cs" line="40" column="1" />
+      <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.6/Program.cs" relfile="Homework-6.6/Program.cs" line="19" column="1" />
+      <Breakpoint file="/Users/janafjr/Projects/Study_book/Homework-6.9/Program.cs" relfile="Homework-6.9/Program.cs" line="13" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Project-6.9 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -21,15 +24,16 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Homework-6.1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Project-6.5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Homework-6.7/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework-6.9/Program.cs">
     <Files>
-      <File FileName="Homework-6.7/Program.cs" Line="39" Column="1" />
+      <File FileName="Homework-6.9/Program.cs" Line="10" Column="6" />
+      <File FileName="Homework-6.8/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Study_book" expanded="True">
-            <Node name="Homework-6.8" expanded="True">
+            <Node name="Homework-6.9" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

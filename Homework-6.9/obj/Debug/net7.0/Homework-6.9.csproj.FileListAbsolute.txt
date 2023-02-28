@@ -1,0 +1,15 @@
+/Users/janafjr/Projects/Study_book/Homework-6.9/obj/Debug/net7.0/Homework-6.9.csproj.AssemblyReference.cache
+/Users/janafjr/Projects/Study_book/Homework-6.9/obj/Debug/net7.0/Homework-6.9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janafjr/Projects/Study_book/Homework-6.9/obj/Debug/net7.0/Homework-6.9.AssemblyInfoInputs.cache
+/Users/janafjr/Projects/Study_book/Homework-6.9/obj/Debug/net7.0/Homework-6.9.AssemblyInfo.cs
+/Users/janafjr/Projects/Study_book/Homework-6.9/obj/Debug/net7.0/Homework-6.9.csproj.CoreCompileInputs.cache
+/Users/janafjr/Projects/Study_book/Homework-6.9/bin/Debug/net7.0/Homework-6.9
+/Users/janafjr/Projects/Study_book/Homework-6.9/bin/Debug/net7.0/Homework-6.9.deps.json
+/Users/janafjr/Projects/Study_book/Homework-6.9/bin/Debug/net7.0/Homework-6.9.runtimeconfig.json
+/Users/janafjr/Projects/Study_book/Homework-6.9/bin/Debug/net7.0/Homework-6.9.dll
+/Users/janafjr/Projects/Study_book/Homework-6.9/bin/Debug/net7.0/Homework-6.9.pdb
+/Users/janafjr/Projects/Study_book/Homework-6.9/obj/Debug/net7.0/Homework-6.9.dll
+/Users/janafjr/Projects/Study_book/Homework-6.9/obj/Debug/net7.0/refint/Homework-6.9.dll
+/Users/janafjr/Projects/Study_book/Homework-6.9/obj/Debug/net7.0/Homework-6.9.pdb
+/Users/janafjr/Projects/Study_book/Homework-6.9/obj/Debug/net7.0/Homework-6.9.genruntimeconfig.cache
+/Users/janafjr/Projects/Study_book/Homework-6.9/obj/Debug/net7.0/ref/Homework-6.9.dll

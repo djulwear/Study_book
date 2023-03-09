@@ -8,19 +8,36 @@
  */
 
 using System;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 class MyClass
 {
+    private string classField;
 
+    static string SplitAndReverse(string text)
+    {
+        string[] words = text.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+        Array.Reverse(words);
+        text = string.Join(" ", words);
+        return text;
+    }
 
+    public MyClass(string input)
+    {
+        classField = SplitAndReverse(input);
+    }
 
+    public void Show()
+    {
+        Console.WriteLine(classField);
+    }
 }
 
 class MainClass
 {
     static void Main()
     {
-
-
+        MyClass A = new MyClass("Hello my name is Json!");
+        A.Show();
     }
 }

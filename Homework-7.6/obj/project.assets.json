@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/janafjr/Projects/Study_book/Homewwork-5.5/Homework-5.5.csproj",
-      "projectName": "Homework-5.5",
-      "projectPath": "/Users/janafjr/Projects/Study_book/Homewwork-5.5/Homework-5.5.csproj",
+      "projectUniqueName": "/Users/janafjr/Projects/Study_book/Homework-7.6/Homework-7.6.csproj",
+      "projectName": "Homework-7.6",
+      "projectPath": "/Users/janafjr/Projects/Study_book/Homework-7.6/Homework-7.6.csproj",
       "packagesPath": "/Users/janafjr/.nuget/packages/",
-      "outputPath": "/Users/janafjr/Projects/Study_book/Homewwork-5.5/obj/",
+      "outputPath": "/Users/janafjr/Projects/Study_book/Homework-7.6/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/janafjr/.nuget/NuGet/NuGet.Config"
